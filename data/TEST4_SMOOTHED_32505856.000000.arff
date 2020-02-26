@@ -1,0 +1,15 @@
+@relation bethune-weka.filters.unsupervised.attribute.Add-TDAT-NtimeList-Clast-weka.filters.unsupervised.attribute.Add-NTEST4-Clast-weka.filters.unsupervised.instance.RemoveDuplicates-weka.filters.unsupervised.instance.RemoveDuplicates
+
+@attribute timeList date 'yyyy-MM-dd\'T\'HH:mm:ss'
+@attribute TEST4 numeric
+
+@data
+2017-11-22T00:00:00,1048576
+2017-11-23T00:00:00,1048576
+2017-11-24T00:00:00,1048576
+2017-11-25T00:00:00,1048576
+2017-11-26T00:00:00,1048576
+2017-11-27T00:00:00,1048576
+2017-11-28T00:00:00,1048576
+2017-11-29T00:00:00,1048576
+2017-11-30T00:00:00,1048576
